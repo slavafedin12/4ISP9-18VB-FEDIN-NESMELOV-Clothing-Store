@@ -1,0 +1,14 @@
+﻿<Window x:Class="_4ISP9_18VB_FEDIN_NESMELOV_Clothing_Store.CategoryClothWindow1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_4ISP9_18VB_FEDIN_NESMELOV_Clothing_Store"
+        mc:Ignorable="d"
+        Title="CategoryClothWindow1" d:DesignHeight="600" d:DesignWidth="700"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Source="C:\Users\Преподаватель\source\repos\4ISP9-18VB FEDIN NESMELOV Clothing Store\4ISP9-18VB FEDIN NESMELOV Clothing Store\Res\МАГАЗИН-ОДЕЖДЫ.png"/>
+
+    </Grid>
+</Window>
